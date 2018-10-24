@@ -4,5 +4,4 @@ node_js:
 cache: yarn
 script:
   - yarn
-  - yarn start
   - yarn test
